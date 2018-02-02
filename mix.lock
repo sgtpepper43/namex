@@ -1,4 +1,4 @@
 %{
-  "lex_luthor": {:hex, :lex_luthor, "0.1.1", "c8084c158426a7308271b6e5a3e43771163ef373d53adb091195e0b82cea62b7", [:mix], [], "hexpm"},
-  "pismo": {:git, "https://github.com/jamesotron/pismo", "2b43349666dd8744b1e789295d569285b803bc85", []},
+  "earmark": {:hex, :earmark, "1.2.4", "99b637c62a4d65a20a9fb674b8cffb8baa771c04605a80c911c4418c69b75439", [:mix], [], "hexpm"},
+  "ex_doc": {:hex, :ex_doc, "0.18.2", "993e0a95e9fbb790ac54ea58e700b45b299bd48bc44b4ae0404f28161f37a83e", [:mix], [{:earmark, "~> 1.1", [hex: :earmark, repo: "hexpm", optional: false]}], "hexpm"},
 }
